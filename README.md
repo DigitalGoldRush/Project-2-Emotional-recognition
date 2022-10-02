@@ -1,4 +1,4 @@
-# Group Project # 2: Emotion Recognition using a Neural Network
+# Group Project #2: Emotion Recognition using a Neural Network
 
 ## Determine a person's emotion based on facial pattern analysis
 
@@ -6,7 +6,7 @@
 
 - ### An optimized NN wil be determined by implementation of different ML classifiers
 
-  - #### 1. Dataset from ![Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data)
+  - #### 1. Dataset from [Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data)
   -  
 
 - ### 
