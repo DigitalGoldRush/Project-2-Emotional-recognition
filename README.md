@@ -10,11 +10,11 @@
 
 - #### (We can add ML optimization in here later)
 
-## 2. Picture is taken in Streamlit and sent to our optimized Neural Network
+### 2. Picture is taken in Streamlit and sent to our optimized Neural Network
 
-## 3. The Neural Network will determine the emotion of the person in the picture
+### 3. The Neural Network will determine the emotion of the person in the picture
 
-## 4. Applications of emotional recognition can guide financial institutions into providing intelligent-driven financial service
+### 4. Applications of emotional recognition can guide financial institutions into providing intelligent-driven financial service
 
 - ### Can skip learning the customer experience and get real-time feedback on customer satisfaction with service
 
