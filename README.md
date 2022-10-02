@@ -10,7 +10,7 @@
 
 ---
 
-![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
+![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Project-2-Emotional-recognition/blob/main/Resources/a-smartphone-using-face-id-recognition-system-2021-08-26-12-07-48-utc.jpeg)
 
 ## Summary Evaluation
 
