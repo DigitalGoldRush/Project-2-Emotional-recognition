@@ -2,14 +2,23 @@
 
 ## Determine a person's emotion based on facial pattern analysis
 
-- ### Picture is taken in Streamlit and sent to our Neural Network
+### 1. An optimized NN wil be determined by implementation of different ML classifiers
 
-- ### An optimized NN wil be determined by implementation of different ML classifiers
+- #### Dataset from [Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data) contains different expressions of the human face (happy, sad, angry, neutral, surprise, fear, disgust)
 
-  - #### 1. Dataset from [Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data)
-  -  
+- #### The training set contains 28,709 images and the test set contains 7,177 images of facial expressions
 
-- ### 
+- #### (We can add ML optimization in here later)
+
+## 2. Picture is taken in Streamlit and sent to our optimized Neural Network
+
+## 3. The Neural Network will determine the emotion of the person in the picture
+
+## 4. Applications of emotional recognition can guide financial institutions into providing intelligent-driven financial service
+
+- ### Can skip learning the customer experience and get real-time feedback on customer satisfaction with service
+
+- ### Unhappy customers can be identified and can be forwarded directly to the senior bank manager
 
 ---
 
@@ -17,8 +26,7 @@
 
 ## Summary Evaluation
 
-### The actual returns mimic the cumulative returns of the two best performing strategies (ADA and SVM), bud did not reach the same peak
-
+### 1. The model was able to achieve an accuracy of 70% on the test set (should be able to improve with more data)
 
 ---
 
@@ -47,6 +55,8 @@
 
 [![hvplot](https://img.shields.io/badge/hvplot-0.7.3-orange)](https://hvplot.holoviz.org/)
 
+streamlit 0.88.0  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/digitalgoldrush/project-2-emotional-recognition/main/Emotion_recognition.ipynb)
+
 ---
 
 ## Installation Guide
@@ -55,16 +65,13 @@
 
 - ### Tensorflow will run in Colab
 
-### 2. To install scikit-learn
+- ### All the necessary libraries will be installed on Colab
+
+### 2. To install Streamlit on your local machine, run the following command in your terminal
 
 ```bash
-pip install -U scikit-learn
-```
-
-### 3. To install Pandas
-
-```bash
-pip install pandas
+pip install streamlit
+streamlit hello
 ```
 
 ---
@@ -75,9 +82,8 @@ pip install pandas
 
 [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
-
 ## Erick Esparza
 
-## Leo 
+## Leo
 
 ---
