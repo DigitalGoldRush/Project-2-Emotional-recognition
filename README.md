@@ -1,12 +1,15 @@
-# Project-2-Emotion-recognition
+# Group Project # 2: Emotion Recognition using a Neural Network
 
-## Create a trading bot with machine learning algorithms that can adapt to new data
+## Determine a person's emotion based on facial pattern analysis
 
-- ###  Implement an algorithmic trading strategy using ML to automate the trading process
+- ### Picture is taken in Streamlit and sent to our Neural Network
 
-- ### Adjust the input parameters to optimize the algorithm
+- ### An optimized NN wil be determined by implementation of different ML classifiers
 
-- ### Optimize results by implementing different ML classifiers
+  - #### 1. Dataset from ![Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data)
+  -  
+
+- ### 
 
 ---
 
