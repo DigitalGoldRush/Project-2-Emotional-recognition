@@ -34,6 +34,10 @@
 
 - ### The model incorrectly predicted the emotion in the picture as "sad" when the person was actually "happy"
 
+![![CleanShot 2022-10-09 at 01 19 23](https://user-images.githubusercontent.com/87915540/194746113-bf1b23b0-f4fa-420a-9e62-6b9d39a092c9.jpg)
+
+---
+
 ## Technology Used
 
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3912/)
