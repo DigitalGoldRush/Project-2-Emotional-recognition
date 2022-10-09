@@ -27,7 +27,7 @@
 ---
 
 ## Summary of Findings
- 
+
 - ### The model using the RMS optimizer & ReLu Activation was the most accurate with 53% accuracy and had the least loss of 1.22
 
 - ### This model was used to predict the emotion of the person in the picture
