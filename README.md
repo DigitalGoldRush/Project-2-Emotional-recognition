@@ -84,6 +84,4 @@ streamlit hello
 
 ## Erick Esparza
 
-#
-
 ---
