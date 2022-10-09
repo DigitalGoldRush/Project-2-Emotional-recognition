@@ -26,6 +26,14 @@
 
 ---
 
+## Summary of Findings
+ 
+- ### The model using the RMS optimizer & ReLu Activation was the most accurate with 53% accuracy and had the least loss of 1.22
+
+- ### This model was used to predict the emotion of the person in the picture
+
+- ### The model incorrectly predicted the emotion in the picture as "sad" when the person was actually "happy"
+
 ## Technology Used
 
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3912/)
